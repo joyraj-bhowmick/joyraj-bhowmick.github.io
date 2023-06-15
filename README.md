@@ -1,1 +1,3 @@
-This is the source code to Jon Barron's public academic website: https://jonbarron.info/. Feel free to clone this code for your own personal use.
+Website link: https://joyraj-bhowmick.github.io/.
+
+The source code was modified from Jon Barron's website repo: https://github.com/jonbarron/website/.
